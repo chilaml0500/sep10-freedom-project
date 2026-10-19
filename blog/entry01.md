@@ -1,4 +1,4 @@
-# Entry 1
+# SEP10 Freedom Project
 ##### X/X/XX
 
 Text
