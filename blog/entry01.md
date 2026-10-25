@@ -20,6 +20,9 @@ I wanted to become a chemist. Because being a chemist boosts my interest in how 
 
 In order to achieve our goal of being a chemist, we have to experience what it feels like to invent products, and how dangerous it is to do experiments. The next step to achieve this goal is experience, this matters A **LOT** because without experience in this specific role, it could ruin or make everything collapse.
 
+## Skills
+
+Skills we could use now as chemists is that we know how to use the tools in the experiment lab. Another skills would be communication and collaboration, during this stage, it's just about how well you work with your peers proving that this skill would be useful. Overall, Chemists skills are really useful because you know the basics to this role itself and you are basically set-up.
 
 [Next](entry02.md)
 
