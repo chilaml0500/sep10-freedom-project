@@ -10,7 +10,7 @@ The reason why both of our topics go along with each other is because we have th
 
 ### Jordan response:
 
-Let me be honest I was always someone who wanted to help out someone I just didn't have one path so since I was a little kid I wanted to help people so I chose to become a chemist.The reason why I choose a chemist instead of my other 4 chooses like becoming a detective,policy analyst,lawyer, or a teacher is because there I can help make new cures for diseases which can help people and it is also interesting to see chain reaction to how elements react to each other. Even though I am not going to write more about this I will still try to pursue it. Also I found the technology that's used in detective work interesting like they use [technology helps detective](https://www.gao.gov/products/gao-24-107206)
+Let me be honest I was always someone who wanted to help out someone I just didn't have one path so since I was a little kid I wanted to help people so I chose to become a chemist.The reason why I choose a chemist instead of my other 4 chooses like becoming a detective,policy analyst,lawyer, or a teacher is because there I can help make new cures for diseases which can help people and it is also interesting to see chain reaction to how elements react to each other. Even though I am not going to write more about this I will still try to pursue it. Also I found the technology that's used in detective work interesting like they use [technology helps detective.](https://www.gao.gov/products/gao-24-107206)
 
 ### Chilam's response:
 
