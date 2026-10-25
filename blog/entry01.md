@@ -18,8 +18,19 @@ I wanted to become a chemist. Because being a chemist boosts my interest in how 
 
 ## Our steps to achieve our goal
 
-In order to achieve our goal of being a chemist, we have to experience what it feels like to invent products, and how dangerous it is to do experiments. The next step to achieve this goal is experience, this matters A **LOT** because without experience in this specific role, it could ruin or make everything collapse.
+In order to achieve our goal of being a chemist, we have to experience what it feels like to invent products, and how dangerous it is to do experiments. The next step to achieve this goal is experience, this matters A **LOT** because without experience in this specific role, it could ruin or make everything collapse.[Here are the things we need according to this website](https://www.fda.gov/about-fda/career-descriptions/chemist-positions-fda)
 
 ## Skills
 
-Skills we could use now as chemists is that we know how to use the tools in the experiment lab. Another skills would be communication and collaboration, during this stage, it's just about how well you work with your peers proving that this skill would be useful. Overall, Chemists skills are really useful because you know the basics to this role itself and you are basically set-up.
+Skills we are learning now that can help us in the future are learning to use the tools in chemistry and communication, and collaboration while doing this blog.
+
+### Organization
+We are using organization to keep our schedules organized and our time of doing something like a project like this blog on time so that it doesn't turn into a rush job. If we aren't organized then our workload will be too much to complete.
+
+### Tools
+In chemistry we are learning how to use cylinders to measure liquids and scales to measure the mass of an object which can help us in the future be a bit ahead in learning.
+
+### Collaboration
+We are learning how to talk to each other and come to a compromise in SEP10 like how we had to use pickcode and are partners to help get the work done.
+
+
