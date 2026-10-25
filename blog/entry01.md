@@ -1,4 +1,4 @@
-# Jordan and Chi lam SEP10 Freedom Project
+# Jordan and Chilam SEP10 Freedom Project
 # Our choice of a topic
 ## Our context of why we want to become a chemist
 ### Jordan response:
