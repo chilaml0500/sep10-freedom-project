@@ -16,6 +16,10 @@ Let me be honest I was always someone who wanted to help out someone I just didn
 
 I wanted to become a chemist. Because being a chemist boosts my interest in how the world actually works. I would love being a chemist because I wanted to see how chemicals and substances interact with each other. Using this knowledge, we can invent new innovations, or products like medicines. Additionally, being a chemist also improves people's health and discovering new things. Chemists also have huge advantages, it improves people's creativity, logic thinking, etc. Overall, being a chemist is overall a great role to be because chemists make the world safer, healthier, and find/discover more things happening.
 
+## Our steps to achieve our goal
+
+In order to achieve our goal of being a chemist, we have to experience what it feels like to invent products, and how dangerous it is to do experiments. The next step to achieve this goal is experience, this matters A LOT because without experience in this specific role, it could ruin or make everything collapse.
+
 ## Our steps to become a chemist
 
 
