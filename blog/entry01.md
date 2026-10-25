@@ -18,9 +18,7 @@ I wanted to become a chemist. Because being a chemist boosts my interest in how 
 
 ## Our steps to achieve our goal
 
-In order to achieve our goal of being a chemist, we have to experience what it feels like to invent products, and how dangerous it is to do experiments. The next step to achieve this goal is experience, this matters A LOT because without experience in this specific role, it could ruin or make everything collapse.
-
-## Our steps to become a chemist
+In order to achieve our goal of being a chemist, we have to experience what it feels like to invent products, and how dangerous it is to do experiments. The next step to achieve this goal is experience, this matters A **LOT** because without experience in this specific role, it could ruin or make everything collapse.
 
 
 [Next](entry02.md)
