@@ -19,11 +19,10 @@ The skills that can help us in the future is that we can wield tools more effici
 We are using organization to keep our schedules organized and our time of doing something like a project like this blog on time so that it doesn't turn into a rush job. If we aren't organized then our workload will be too much to complete.
 
 ### Tools
+For tools, this is also important because it's also essential for a chemist due to the tools measuring, mixing substances clearly and precisely.
 
-In chemistry we are learning how to use cylinders to measure liquids and scales to measure the mass of an object which can help us in the future be a bit ahead in learning.
 
 ### Collaboration
 
-We are learning how to talk to each other and come to a compromise in SEP10 like how we had to use pickcode and are partners to help get the work done.
-
+For collaboration, this is one of the most important skill I would definitely need as chemist. This skill not only requires teamwork, also requires socializing which helps us in experimenting a lot by shaping how we think, feel, and perform in our lab.
 
