@@ -19,7 +19,7 @@ The skills that can help us in the future is that we can wield tools more effici
 We are using organization to keep our schedules organized and our time of doing something like a project like this blog on time so that it doesn't turn into a rush job. If we aren't organized then our workload will be too much to complete.
 
 ### Tools
-For tools, this is also important because it's also essential for a chemist due to the tools measuring, mixing substances clearly and precisely.
+For tools, this is also important because it's also essential for a chemist due to the tools measuring, mixing substances clearly and precisely. Another reason is that using tools, this is basically a **cheat**. Basically, you can use tools as your advantage to use precise contact with the substance and probably even make new mixtures.
 
 
 ### Collaboration
