@@ -1,4 +1,4 @@
-# Jordan and Chilam SEP10 Freedom Project
+# SEP10 Freedom Project
 
 # Our choice of a topic
 
