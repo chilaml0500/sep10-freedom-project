@@ -1,6 +1,6 @@
 # SEP10 Freedom Project
 
-# Our choice of a topic
+# Chemist
 
 ## Context
 
