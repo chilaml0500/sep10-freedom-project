@@ -2,7 +2,7 @@
 Topic: **Chemistry**
 
 ## Overview/Introduction/Context
-* Text
+* 
 * Text
 
 ## Part A: existing technology
