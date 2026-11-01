@@ -9,7 +9,7 @@ Topic: **Chemistry**
 
 ##### Software
 * 1st Google search: *Helpful chemistry apps*
-* 1st website looked into: https://edu.rsc.org/ideas/eight-great-apps-for-chemistry-teachers/2010025.article
+* [1st website looked into]: (https://edu.rsc.org/ideas/eight-great-apps-for-chemistry-teachers/2010025.article)
   * After reviewing the website, I found out that it's pretty useful because it guides you and tells you information about other useful apps about chemistry.
   * This website gives 8 useful apps and resources that helps you why chemistry can save the world.
 * Periodic table, which gives you significant information about the element itself.
@@ -25,7 +25,7 @@ Topic: **Chemistry**
   * Organizing, a key skill to organize tools to find and use them more efficiently.
   * Analyzing, a key skill to review/analyze the situation during experiment on what to do next.
   * Time management, a significantly skill to use time wisely due to time limits.
-  * [text}(https://github.com/chilaml0500/sep10-freedom-project/edit/main/prep/content.md)
+  * 
 
 ## Part B: possible future technology
 * Idea
