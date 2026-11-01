@@ -3,7 +3,7 @@ Topic: **Chemistry**
 
 ## Overview/Introduction/Context
 * Chemistry is very essential to today's world overtime because it has invented many cures and new substances that can probably change the world.
-*
+* Chemistry has been the key to collaboration and quick thinking, due to how the core works.
 
 ## Part A: existing technology
 
