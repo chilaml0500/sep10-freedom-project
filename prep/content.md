@@ -9,8 +9,8 @@ Topic: **Chemistry**
 
 ##### Software
 * 1st Google search: *Helpful chemistry apps*
-* 1st website looked into: ([https://edu.rsc.org/ideas/eight-great-apps-for-chemistry-teachers/2010025.article]}
-  * After reviewing the website, I found out that it's pretty useful because it guides you and tells you information about other useful apps about chemistry.
+* [(The 1st website looked into: https://edu.rsc.org/ideas/eight-great-apps-for-chemistry-teachers/2010025.article)]
+  After reviewing the website, I found out that it's pretty useful because it guides you and tells you information about other useful apps about chemistry.
   * This website gives 8 useful apps and resources that helps you why chemistry can save the world.
 * Periodic table, which gives you significant information about the element itself.
   * Example: 8 (O) Oxygen 16 which the 8 is the atomic number, O is the oxygen's symbol, and 16 is the atomic mass.
