@@ -23,6 +23,8 @@ Topic: **Chemistry**
   * Collaborating, a key skill to perform in labs and experiment.
     * This skill lets you communicate with new people and also make some friendships.
   * Organizing, a key skill to organize tools to find and use them more efficiently.
+  * Analyzing, a key skill to review/analyze the situation during experiment on what to do next.
+  * Time management, a significantly skill to use time wisely due to time limits.
 
 ## Part B: possible future technology
 * Idea
