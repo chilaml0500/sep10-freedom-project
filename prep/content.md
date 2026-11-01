@@ -13,7 +13,9 @@ Topic: **Chemistry**
   * After reviewing the website, I found out that it's pretty useful because it guides you and tells you information about other useful apps about chemistry.
   * This website gives 8 useful apps and resources that helps you why chemistry can save the world.
 * Periodic table, which gives you significant information about the element itself.
-   * Example: 8 (O) Oxygen 16 which the 8 is the atomic number, O is the oxygen's symbol, and 16 is the atomic mass.
+  * Example: 8 (O) Oxygen 16 which the 8 is the atomic number, O is the oxygen's symbol, and 16 is the atomic mass.
+* Elemental, a simple tool for drawing chemical structures and reactions.
+  * How it's useful: it does it's job accurately and perfectly. You can also save email the structures you draw.
 
 ##### Hardware
 * Tech
