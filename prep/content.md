@@ -18,7 +18,7 @@ Topic: **Chemistry**
   * How it's useful: it does it's job accurately and perfectly. You can also save email the structures you draw.
 
 ##### Hardware
-* Tech
+* For hardware, I researched 'Chemistry technology' and it's pretty reliable because the website ends with .gov.
   * Detail
   * [image text](image URL)
 
