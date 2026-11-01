@@ -20,8 +20,9 @@ Topic: **Chemistry**
 ##### Hardware
 * For hardware, I researched 'Chemistry technology' and it's pretty reliable because the website ends with .gov.
 * The website is https://ncats.nih.gov/research/research-activities/chemistry-technology
-  * Detail
-  * [image text](image URL)
+  * Collaborating, a key skill to perform in labs and experiment.
+    * This skill lets you communicate with new people and also make some friendships.
+  * Organizing, a key skill to organize tools to find and use them more efficiently.
 
 ## Part B: possible future technology
 * Idea
