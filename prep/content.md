@@ -9,7 +9,7 @@ Topic: **Chemistry**
 
 ##### Software
 * 1st Google search: *Helpful chemistry apps*
-* [(The 1st website looked into: https://edu.rsc.org/ideas/eight-great-apps-for-chemistry-teachers/2010025.article)]
+The 1st website looked into: [https://edu.rsc.org/ideas/eight-great-apps-for-chemistry-teachers/2010025.article](https://edu.rsc.org/ideas/eight-great-apps-for-chemistry-teachers/2010025.article)
   *After reviewing the website, I found out that it's pretty useful because it guides you and tells you information about other useful apps about chemistry.
   * This website gives 8 useful apps and resources that helps you why chemistry can save the world.
 * Periodic table, which gives you significant information about the element itself.
