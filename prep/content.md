@@ -18,7 +18,7 @@ Topic: **Chemistry**
   * How it's useful: it does it's job accurately and perfectly. You can also save email the structures you draw.
 
 ##### Hardware
-* For hardware, I researched 'Chemistry technology' and it's pretty reliable because the website ends with .gov.
+* For hardware, I researched *Chemistry technology* and it's pretty reliable because the website ends with .gov.
 * The website is [Chemistry Technology](https://ncats.nih.gov/research/research-activities/chemistry-technology)
   * Collaborating, a key skill to perform in labs and experiment.
     * This skill lets you communicate with new people and also make some friendships.
