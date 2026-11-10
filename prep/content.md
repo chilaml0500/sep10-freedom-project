@@ -25,7 +25,7 @@ Topic: **Chemistry**
   * Organizing, a key skill to organize tools to find and use them more efficiently.
   * Analyzing, a key skill to review/analyze the situation during experiment on what to do next.
   * Time management, a significantly skill to use time wisely due to time limits.
-
+  * Creativity, finding a way even without any clue on what to do and somehow still finds a way to solve the conflict which is **key** to experiemnts.
 ## Part B: possible future technology
 * Idea
   * Detail
