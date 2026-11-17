@@ -11,4 +11,4 @@ Currently, I'm in the third process of engineering design process, where the mai
 Some skills that I've learned so far is **googling**, **time management**, and **never give up**.
 
 #### Googling
-During my research on useful websites of *Education in chemistry*, I found that googling actually makes things **a lot easier**, because recommended websites of the topic is on the top, you don't need to scroll for like 30 minutes and wasting your own time. After googling for less than minutes, I've found [Educational Resources: Chemistry](https://www.nsf.gov/focus-areas/chemistry/educational-resources)
+During my research on useful websites of *Education in chemistry*, I found that googling actually makes things **a lot easier**, because recommended websites of the topic is on the top, you don't need to scroll for like 30 minutes and wasting your own time. After googling for less than minutes, I've found [Educational Resources: Chemistry](https://www.nsf.gov/focus-areas/chemistry/educational-resources) was the website I was looking for and it's a trustworthy website because it ends with .gov.
