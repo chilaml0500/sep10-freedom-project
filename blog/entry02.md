@@ -10,4 +10,5 @@ Currently, I'm in the third process of engineering design process, where the mai
 ## Skills
 Some skills that I've learned so far is **googling**, **time management**, and **never give up**.
 
-### Googling
+#### Googling
+During my research on useful websites of *Education in chemistry*, I found that googling actually makes things **a lot easier**, because recommended websites of the topic is on the top, you don't need to scroll for like 30 minutes and wasting your own time.
