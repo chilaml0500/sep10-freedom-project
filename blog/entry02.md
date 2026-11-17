@@ -18,3 +18,6 @@ My schedule for this year is **VERY** busy, because not everyone is free and rel
 
 #### Resilience
 When you're in a **burden** situations, most people would give up because it's impossible or they just immediately gave up. But this skill makes you change person because it allows you to keep going and be stronger than ever. Because of this important skill, it reforms me to another complete person and it has significantly helped me over the years.
+
+#### Next steps in the future
+Using these skills and the blog to improve as a better person as I am right now.
