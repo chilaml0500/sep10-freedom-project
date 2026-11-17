@@ -17,4 +17,4 @@ During my research on useful websites of *Education in chemistry*, I found that 
 My schedule for this year is **VERY** busy, because not everyone is free and relax at home. So I've planned what I should do everyday. For example, Monday-Saturday I will be working on anything that's schoolwork and necessary that's significant. Sunday I will be relaxing or doing a bit of extra work. This skill is so significant and ignored that everyone needs to use this instead of making your mind of rather you should do this today or next year and it really effect you.
 
 #### Resilience
-When you're in a **burden** situations, most people would give up because it's impossible or they just immediately gave up. But this skill makes you change person because it allows you to keep going and be stronger than ever. 
+When you're in a **burden** situations, most people would give up because it's impossible or they just immediately gave up. But this skill makes you change person because it allows you to keep going and be stronger than ever. Because of this important skill, it reforms me to another complete person and it has significantly helped me over the years.
