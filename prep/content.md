@@ -19,7 +19,7 @@ Topic: **Chemistry**
 * Tindarapo, a useful simulation to see how atoms effect on pressure.
   * How it's useful, the simulation helps us understand how atoms works on particle theory, and changing the volume changes the result of atoms.
 * Chemspider, this website can help students and people who wants to learn about chemical compounds.
-
+  * Why this website helps, it improves students and learners about how chemical compound function.
 ##### Hardware
 * For hardware, I researched *Chemistry technology* and it's pretty reliable because the website ends with .gov.
 * The website is [Chemistry Technology](https://ncats.nih.gov/research/research-activities/chemistry-technology)
