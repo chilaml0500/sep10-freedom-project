@@ -22,6 +22,7 @@ Topic: **Chemistry**
   * Why this website helps, it improves students and learners about how chemical compound function.
 * 3D molecules edit & test, this makes students draw and view the structures as 3D to analyze them.
    * How it's useful, it makes their thinking and creativity more accurate and better to brainstorm more ideas.
+* Chemist – Virtual Chem Lab, this is a fun experiment to express and has a lab report to share with others.
 ##### Hardware
 * For hardware, I researched *Chemistry technology* and it's pretty reliable because the website ends with .gov.
 * The website is [Chemistry Technology](https://ncats.nih.gov/research/research-activities/chemistry-technology)
